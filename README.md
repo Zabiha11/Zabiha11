@@ -45,7 +45,7 @@
 ### 🔗 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zabiha-muskan)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=web&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=web&logoColor=white)](https://zabiha-muskan.netlify.app/)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:khaleekhuz85zama@gmail.com)
 
 ---
