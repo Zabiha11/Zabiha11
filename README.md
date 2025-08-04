@@ -69,6 +69,6 @@
 
 ### ✨ Top Projects
 
-- [🔍 Fraud Detection with ML](https://github.com/YOUR_USERNAME/fraud-detection)
-- [💬 AI Finance Chatbot](https://github.com/YOUR_USERNAME/finance-chatbot)
-- [🌐 Personal Portfolio](https://github.com/YOUR_USERNAME/portfolio-site)
+- [🔍 Fraud Detection with ML](https://github.com/Zabiha11/fraud-detection)
+- [💬 AI Finance Chatbot](https://github.com/Zabiha11/finance-chatbot)
+- [🌐 Personal Portfolio](https://github.com/Zabiha11/portfolio-site)
