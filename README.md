@@ -5,7 +5,7 @@
 
 <!-- PROFILE PHOTO -->
 <p align="center">
-  <img src="YOUR_PHOTO_URL_HERE" width="180" style="border-radius:50%" />
+  <img src="https://github.com/Zabiha11/pic/blob/main/me%20(1).png" width="180" style="border-radius:50%" />
 </p>
 
 <h3 align="center">🚀 AI Engineer in Progress | 🤖 AI Agents & ML Enthusiast</h3>
