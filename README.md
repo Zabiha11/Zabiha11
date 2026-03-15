@@ -46,10 +46,9 @@
 
 ---
 
-### 📊 GitHub Stats
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.demolab.com/api?username=Zabiha11&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zabiha11&show_icons=true&theme=radical)
 
 ### 🌟 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=Zabiha11&theme=radical)
