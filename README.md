@@ -1,72 +1,137 @@
-<h1 align="center">Hi there, I'm Zabiha Muskan 👋</h1>
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Zabiha%20Muskan&fontSize=40&fontAlignY=35&animation=fadeIn"/>
+</p>
+
+<!-- PROFILE PHOTO -->
+<p align="center">
+  <img src="YOUR_PHOTO_URL_HERE" width="180" style="border-radius:50%" />
+</p>
+
+<h3 align="center">🚀 AI Engineer in Progress | 🤖 AI Agents & ML Enthusiast</h3>
 
 <p align="center">
-  🚀 Final-Year CSE Student | 🤖 Aspiring AI Engineer | 🐍 Python & Data Enthusiast
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=FF61F6&center=true&vCenter=true&width=600&lines=Hi+I'm+Zabiha+Muskan;AI+Engineer+in+Progress;Machine+Learning+Enthusiast;Building+AI+Agents;Python+Developer"/>
 </p>
 
 ---
 
-### 💡 About Me
+# 👩‍💻 About Me
 
-- 🎓 Final-year Computer Science Engineering student passionate about **AI, ML, and building intelligent systems**
-- 💻 Skilled in **Python**, **Machine Learning**, **Deep Learning**, **Data Science**, and **Web Development**
-- 🧠 Currently exploring **AI agents**, **Generative AI**, and **competitive programming**
-- 🌍 Actively building projects that make a real-world impact and improve user experiences
-- 🔭 Always learning, coding, and collaborating to push boundaries
+🎓 Final-year **Computer Science Engineering** student passionate about **AI, ML and intelligent systems**
 
----
+🤖 Exploring:
+- AI Agents
+- Generative AI
+- Machine Learning
+- Competitive Programming
 
-### 🚀 Tech Stack & Tools
-
-#### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### 🛠️ Tools & Libraries
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-1E90FF?style=for-the-badge)
-
-#### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### 📊 ML/Data Tools
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-A52A2A?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
+💡 I enjoy building **AI systems that solve real-world problems**
 
 ---
 
+# 🚀 Tech Stack
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zabiha11&show_icons=true&theme=radical)
-
-### 🌟 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Zabiha11&theme=radical)
-
-### 📝 Top Languages
-![Top Languages](https://github-readme-stats.demolab.com/api/top-langs/?username=Zabiha11&layout=compact&theme=radical)
----
-
-### 🔗 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zabiha-muskan)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=web&logoColor=white)](https://zabiha-muskan.netlify.app/)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:khaleekhuz85zama@gmail.com)
+### 💻 Programming
+![Python](https://skillicons.dev/icons?i=python)
+![java](https://skillicons.dev/icons?i=java)
+![c](https://skillicons.dev/icons?i=c)
+![mysql](https://skillicons.dev/icons?i=mysql)
 
 ---
 
-### ✨ Top Projects
+### 🤖 AI / Data Science
+![numpy](https://skillicons.dev/icons?i=numpy)
+![pandas](https://skillicons.dev/icons?i=pandas)
+![sklearn](https://skillicons.dev/icons?i=sklearn)
+![pytorch](https://skillicons.dev/icons?i=pytorch)
 
-- [🔍 Fraud Detection with ML](https://github.com/Zabiha11/fraud-detection)
-- [💬 AI Finance Chatbot](https://github.com/Zabiha11/finance-chatbot)
-- [🌐 Personal Portfolio](https://github.com/Zabiha11/portfolio-site)
+---
+
+### 🌐 Web Development
+![html](https://skillicons.dev/icons?i=html)
+![css](https://skillicons.dev/icons?i=css)
+![react](https://skillicons.dev/icons?i=react)
+![nodejs](https://skillicons.dev/icons?i=nodejs)
+![mongodb](https://skillicons.dev/icons?i=mongodb)
+![tailwind](https://skillicons.dev/icons?i=tailwind)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Zabiha11&show_icons=true&theme=radical"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zabiha11&layout=compact&theme=radical"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Zabiha11&theme=radical"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zabiha11&theme=react-dark"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+🔍 **Fraud Detection System**  
+ML model detecting fraudulent financial transactions.
+
+💬 **AI Finance Chatbot**  
+Chatbot answering financial queries using NLP.
+
+🌐 **Personal Portfolio**  
+Modern responsive portfolio built with React.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/zabiha-muskan">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:khaleekhuz85zama@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://zabiha-muskan.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+✨ <b>"Building intelligent systems one project at a time."</b>
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
