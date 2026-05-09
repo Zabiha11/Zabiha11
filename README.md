@@ -1,60 +1,161 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Zabiha%20Muskan&fontSize=40&fontAlignY=35&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Zabiha%20Muskan&fontSize=42&fontAlignY=38&animation=fadeIn"/>
 </p>
 
-<!-- PROFILE PHOTO -->
+<!-- PROFILE IMAGE -->
 <p align="center">
   <img src="https://github.com/Zabiha11/pic/blob/main/me%20(1).png" width="180" style="border-radius:50%" />
 </p>
 
-<h3 align="center">🚀 AI Engineer in Progress | 🤖 AI Agents & ML Enthusiast</h3>
+<!-- TITLE -->
+<h2 align="center">
+🚀 ML Engineer | AI & Intelligent Systems Builder
+</h2>
 
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=FF61F6&center=true&vCenter=true&width=600&lines=Hi+I'm+Zabiha+Muskan;AI+Engineer+in+Progress;Machine+Learning+Enthusiast;Building+AI+Agents;Python+Developer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=FF61F6&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Building+Practical+AI+Systems;Agentic+AI+%7C+Anomaly+Detection+%7C+NLP;AI+Safety+Systems+Explorer;Turning+Ideas+Into+Intelligent+Solutions"/>
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-🎓 Final-year **Computer Science Engineering** student passionate about **AI, ML and intelligent systems**
+🎓 Computer Science Engineering graduate passionate about building practical AI/ML systems that solve real-world problems.
 
-🤖 Exploring:
-- AI Agents
-- Generative AI
-- Machine Learning
-- Competitive Programming
+I enjoy designing intelligent systems that combine machine learning, automation, behavioral analysis, and AI-driven decision-making to create meaningful impact.
 
-💡 I enjoy building **AI systems that solve real-world problems**
+My interests mainly revolve around:
 
----
+- 🤖 Machine Learning
+- 🧠 Intelligent Systems
+- 🔍 Anomaly Detection
+- ⚡ Agentic AI
+- 💬 NLP & AI Automation
+- 🛡 AI Safety Systems
 
-# 🚀 Tech Stack
-
-### 💻 Programming
-![Python](https://skillicons.dev/icons?i=python)
-![java](https://skillicons.dev/icons?i=java)
-![c](https://skillicons.dev/icons?i=c)
-![mysql](https://skillicons.dev/icons?i=mysql)
+I love transforming ideas into working solutions through hands-on development, experimentation, and continuous learning.
 
 ---
 
-### 🤖 AI / Data Science
-![numpy](https://skillicons.dev/icons?i=numpy)
-![pandas](https://skillicons.dev/icons?i=pandas)
-![sklearn](https://skillicons.dev/icons?i=sklearn)
-![pytorch](https://skillicons.dev/icons?i=pytorch)
+# 🚀 Current Focus
+
+🔹 Building intelligent AI systems with practical real-world applications  
+🔹 Exploring Agentic AI workflows using LangChain & LangGraph  
+🔹 Developing scalable anomaly detection and behavioral analysis systems  
+🔹 Strengthening ML engineering and software development skills  
 
 ---
 
-### 🌐 Web Development
-![html](https://skillicons.dev/icons?i=html)
-![css](https://skillicons.dev/icons?i=css)
-![react](https://skillicons.dev/icons?i=react)
-![nodejs](https://skillicons.dev/icons?i=nodejs)
-![mongodb](https://skillicons.dev/icons?i=mongodb)
-![tailwind](https://skillicons.dev/icons?i=tailwind)
+# 🌟 Featured Projects
+
+## 🔹 ANORA – AI-Powered Predictive Personal Safety System
+
+AI-powered predictive safety system designed for real-time danger detection and emergency response using sensor-driven behavioral analysis.
+
+### Key Features
+- Isolation Forest–based anomaly detection
+- User Behavior Analytics (UBA)
+- Automatic distress detection
+- Proximity-based emergency response
+- Privacy-first architecture
+
+### Impact
+- Reduced false positives by **40%**
+- Achieved **<2 sec response latency**
+
+### Tech Stack
+`Python` `Flask` `Scikit-learn` `Streamlit` `SQLite`
+
+🔗 Repository:  
+https://github.com/Zabiha11/anora
+
+---
+
+## 🔹 Coordinated Bot Review Detection System
+
+Machine learning–based system designed to identify suspicious review manipulation and coordinated bot behavior patterns across platforms.
+
+### Focus Areas
+- Behavioral pattern analysis
+- Fake review detection
+- Coordinated activity identification
+- Trust & authenticity systems
+
+### Tech Stack
+`Python` `Machine Learning` `Data Analysis`
+
+---
+
+## 🔹 Fraud Detection in Financial Transactions
+
+Machine learning project focused on detecting fraudulent financial transactions on highly imbalanced datasets.
+
+### Highlights
+- Achieved **94% recall** for fraud detection
+- Real-time prediction interface using Streamlit
+- Optimized for high-risk transaction identification
+
+### Tech Stack
+`Python` `Scikit-learn` `XGBoost` `Streamlit`
+
+🔗 Repository:  
+https://github.com/Zabiha11/Fraud-Detection-in-Financial-Transactions
+
+---
+
+## 🔹 Autonomous AI Learning Agent
+
+Built an autonomous AI learning system using LangChain and LangGraph with multi-agent workflows and iterative reasoning pipelines.
+
+### Features
+- Multi-agent workflows
+- Stateful execution
+- Iterative refinement loops
+- Feynman-based learning methodology
+
+### Tech Stack
+`Python` `LangChain` `LangGraph`
+
+---
+
+# 🛠 Tech Stack
+
+## 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c" />
+</p>
+
+---
+
+## 🤖 AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn,pytorch" />
+</p>
+
+### Libraries & Frameworks
+- Scikit-learn
+- XGBoost
+- NLTK
+- LangChain
+- LangGraph
+
+---
+
+## ⚙ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,flask,sqlite" />
+</p>
+
+### Familiar With
+- HTML
+- CSS
+- React
+- Node.js
 
 ---
 
@@ -62,9 +163,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zabiha11&show_icons=true&theme=radical"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Zabiha11&show_icons=true&theme=radical"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zabiha11&layout=compact&theme=radical"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zabiha11&layout=compact&theme=radical"/>
 
 </p>
 
@@ -86,24 +187,23 @@
 
 ---
 
-# 🐍 Contribution Snake
+# 🏆 Achievements
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
+🏅 Semi-Finalist – OpenAI × NxtWave Buildathon 2025  
+🏅 2nd Prize – Paper Presentation on Agentic AI Safety Systems  
+🏅 2nd Place – Data Insight Challenge (Banking Dataset Analysis)
 
 ---
 
-# ⭐ Featured Projects
+# 🎤 Beyond Coding
 
-🔍 **Fraud Detection System**  
-ML model detecting fraudulent financial transactions.
+Apart from building AI systems, I enjoy:
+- Public speaking & presentations
+- Exploring emerging AI technologies
+- Journaling & creative thinking
+- Learning through experimentation and building
 
-💬 **AI Finance Chatbot**  
-Chatbot answering financial queries using NLP.
-
-🌐 **Personal Portfolio**  
-Modern responsive portfolio built with React.
+I believe in combining technical growth with creativity, consistency, and real-world impact.
 
 ---
 
@@ -120,16 +220,20 @@ Modern responsive portfolio built with React.
 </a>
 
 <a href="https://zabiha-muskan.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web"/>
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome"/>
 </a>
 
 </p>
 
 ---
 
+# ✨ Philosophy
+
 <p align="center">
-✨ <b>"Building intelligent systems one project at a time."</b>
+Building intelligent systems that create meaningful real-world impact.
 </p>
+
+---
 
 <!-- FOOTER -->
 <p align="center">
